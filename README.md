@@ -1,4 +1,4 @@
-# 🚦 TrafficGen-AI Ultimate Edition
+# 🚦 TrafficGen-AI
 
 **Advanced AI-Powered Climate-Adaptive Traffic Policy Generation and Analysis Platform**
 
