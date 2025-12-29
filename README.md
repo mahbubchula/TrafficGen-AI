@@ -1,14 +1,12 @@
-# 🚦 TrafficGen-AI
+# 🚦 TrafficGen-AI Ultimate Edition
 
-**Advanced AI-Powered Climate-Adaptive Traffic Policy Generation and Analysis Platform**
-
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://trafficgen-ai.streamlit.app/)
+[![GitHub Stars](https://img.shields.io/github/stars/mahbubchula/TrafficGen-AI?style=social)](https://github.com/mahbubchula/TrafficGen-AI)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31.0-FF4B4B.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Research](https://img.shields.io/badge/Research-Grade-purple.svg)](https://github.com/mahbubchula)
 
-A cutting-edge research framework that integrates Large Language Models with traffic microsimulation, multi-objective optimization, and advanced statistical analysis to revolutionize climate-adaptive transportation policy design.
-
+**Advanced AI-Powered Climate-Adaptive Traffic Policy Generation and Analysis Platform**
 ---
 
 ## 🌟 Ultimate Features
