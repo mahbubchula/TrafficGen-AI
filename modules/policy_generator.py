@@ -22,6 +22,7 @@ class PolicyGenerator:
         if not self.api_key:
             raise ValueError("Groq API key not found. Please set GROQ_API_KEY in .env file")
         
+        # Initialize Groq client
         self.client = Groq(api_key=self.api_key)
         self.model = GROQ_MODEL
     
