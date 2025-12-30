@@ -1,4 +1,4 @@
-# 🚦 TrafficGen-AI Ultimate Edition
+# 🚦 TrafficGen-AI
 
 [![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://trafficgen-ai.streamlit.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/mahbubchula/TrafficGen-AI?style=social)](https://github.com/mahbubchula/TrafficGen-AI)
